@@ -1,0 +1,24 @@
+{
+  "name": "@jtq/object-walker",
+  "version": "1.0.0",
+  "description": "Simple object walker with value callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtq/object-walker.git"
+  },
+  "keywords": [
+    "jtq",
+    "object",
+    "walker"
+  ],
+  "author": "James Palmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtq/object-walker/issues"
+  },
+  "homepage": "https://github.com/jtq/object-walker#readme"
+}
